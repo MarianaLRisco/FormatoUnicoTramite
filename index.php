@@ -14,7 +14,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700&display=swap" rel="stylesheet">
-    <link rel="icon" type="image/png" href="imagenes/logo.png">    
+    <link rel="icon" type="image/png" >    
     <!--BDP-->
     <script language="JavaScript" src="js/nivel-grado.js"></script>
     <script src="libs/bootstrap-datepicker/js/bootstrap-datepicker.min.js" charset="utf-8"></script>
@@ -26,8 +26,8 @@
         <nav class="navbar navbar-light background">
             <div class="container-fluid">
                 <a class="navbar-brand" href="#">
-                    <img src="./imagenes/logo.png" alt="" width="55" height="49" class="d-inline-block"><div class="d-inline-block text">
-                    Rafael Narvaez Cabanillas
+                    <img alt="" width="55" height="49" class="d-inline-block"><div class="d-inline-block text">
+                    Colegio X
                     </div>
                 </a>
                 <button class="btn btn-primary"> <div class="d-inline-block text">Iniciar Sesion</div></button>
@@ -136,7 +136,7 @@
 
             <!-- Right -->
             <div>
-            <a href="https://www.facebook.com/rnc.edu.pe" target="_blank" class="me-4 text-reset">
+            <a href="https://www.facebook.com" target="_blank" class="me-4 text-reset">
                 <ion-icon name="logo-facebook" size="large" class="icon"></ion-icon>
             </a>
             <a href="" class="me-4 text-reset">
@@ -159,7 +159,7 @@
                 <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
                 <!-- Content -->
                 <h6 class="text-uppercase fw-bold mb-4">
-                    <i class="fas fa-gem me-3"></i>Rafael Narvaez Cabanillas
+                    <i class="fas fa-gem me-3"></i>NOMBRE DE COLEGIO
                 </h6>
                 <p>
                     Here you can use rows and columns to organize your footer content. Lorem ipsum
@@ -214,8 +214,9 @@
 
         <!-- Copyright -->
         <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
-            © 2022 Copyright:
-            Risco Cosavalente y Cadillo Lucio, RNC
+           © 2022 Copyright:
+            <a href="https://www.linkedin.com/in/mariana-risco-cosavalente/" target="_blank" class="text-black">MarianaLRisco</a> y 
+            <a href="https://www.linkedin.com/in/luis-alberto-cadillo-lucio-879617231/" target="_blank" class="text-black">LuisCadilloLucio</a>, UNT
         </div>
         <!-- Copyright -->
     </footer>
